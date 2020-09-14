@@ -12,5 +12,5 @@ There is a **million and more** people that are better at this than me. Still I 
 
 ## Must read articles
 
-[Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html)
+[Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html)  
 [Semper Ubi Sub Ubi - Things They Don't Teach You In School](https://www.netmeister.org/blog/semper-ubi-sub-ubi.html)
