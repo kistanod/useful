@@ -16,6 +16,6 @@ There is a **million and more** people that are better at this than me. Still I 
 [Semper Ubi Sub Ubi - Things They Don't Teach You In School](https://www.netmeister.org/blog/semper-ubi-sub-ubi.html)
 
 
-## Collection of Interesting CS Courses
+## Collection of Interesting Computer Science Electives
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/?fbclid=IwAR1NEIiwwk-e2k3ykSTrxF5YkrLshitO3ZK_BlnbtG9_FWtpu2Vb0w78OZY)
